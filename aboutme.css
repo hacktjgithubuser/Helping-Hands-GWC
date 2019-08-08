@@ -1,0 +1,49 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+
+
+
+body{
+
+      margin: 0;
+
+      padding: 0;
+
+      background: url(pic1.jpg);
+
+      background-size: cover;
+
+      background-position: center;
+
+      font-family: sans-serif;
+
+  }
+
+
+
+
+
+h1 {
+
+  font-family: 'Lobster', cursive;
+
+}
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Oleo+Script&display=swap');
+
+p {
+
+font-family: 'Oleo Script', cursive;
+
+}
+
+
+
+p{font-size: 30px}
+
+p{font-size: 30px}
+
+p{font-size: 30px}
